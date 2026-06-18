@@ -153,13 +153,13 @@ Communication           ██████████████████�
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Notes Maker
-> A clean notes app with full CRUD, user auth & smooth UX.
+### 📝 Resturant reservation App
+> A reservation app with dashboard, user auth & smooth UX.
 
-**Tech:** React · Node.js · Express · MongoDB
+**Tech:** React · Node.js · Express · MongoDB , Tailwind Css
 
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-61DAFB?style=flat-square&logo=react)](https://github.com/farhan-Ali007/Notes-Maker_frontend)
-[![Backend](https://img.shields.io/badge/Backend-Repo-43853D?style=flat-square&logo=node.js)](https://github.com/farhan-Ali007/Notes-Maker_backend)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-61DAFB?style=flat-square&logo=react)]([https://github.com/farhan-Ali007/](https://github.com/farhan-Ali007/dinebook-frontend))
+[![Backend](https://img.shields.io/badge/Backend-Repo-43853D?style=flat-square&logo=node.js)]([https://github.com/farhan-Ali007/Notes-Maker_backend](https://github.com/farhan-Ali007/dinebook-backend))
 
 </td>
 <td width="50%" valign="top">
