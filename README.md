@@ -12,44 +12,11 @@
 
 # CONNECT WITH ME
 
-<p align="center">
-  <a href="https://farhancodes4u.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://farhancodes4u.netlify.app">
-    <img src="https://img.shields.io/badge/WEBSITE-0B0F19?style=for-the-badge&logo=google-chrome&logoColor=F97316"/>
-  </a>
-  <a href="https://github.com/farhan-Ali007">
-    <img src="https://img.shields.io/badge/GITHUB-F97316?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/farhan-Ali007">
-    <img src="https://img.shields.io/badge/PROFILE-0B0F19?style=for-the-badge&logo=github&logoColor=F97316"/>
-  </a>
-</p>
+<p align="center"><a href="https://farhancodes4u.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://farhancodes4u.netlify.app"><img src="https://img.shields.io/badge/WEBSITE-0B0F19?style=for-the-badge&logo=google-chrome&logoColor=F97316"/></a> <a href="https://github.com/farhan-Ali007"><img src="https://img.shields.io/badge/GITHUB-F97316?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://github.com/farhan-Ali007"><img src="https://img.shields.io/badge/PROFILE-0B0F19?style=for-the-badge&logo=github&logoColor=F97316"/></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/farhan-ali-61971936a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-F97316?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/farhan-ali-61971936a/">
-    <img src="https://img.shields.io/badge/CONNECT-0B0F19?style=for-the-badge&logo=linkedin&logoColor=F97316"/>
-  </a>
-  <a href="mailto:farhancodes36@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="mailto:farhancodes36@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0B0F19?style=for-the-badge&logo=gmail&logoColor=F97316"/>
-  </a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/farhan-ali-61971936a/"><img src="https://img.shields.io/badge/LINKEDIN-F97316?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.linkedin.com/in/farhan-ali-61971936a/"><img src="https://img.shields.io/badge/CONNECT-0B0F19?style=for-the-badge&logo=linkedin&logoColor=F97316"/></a> <a href="mailto:farhancodes36@gmail.com"><img src="https://img.shields.io/badge/GMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="mailto:farhancodes36@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F19?style=for-the-badge&logo=gmail&logoColor=F97316"/></a></p>
 
-<p align="center">
-  <a href="https://wa.me/923277053836">
-    <img src="https://img.shields.io/badge/WHATSAPP-F97316?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/923277053836">
-    <img src="https://img.shields.io/badge/CHAT-0B0F19?style=for-the-badge&logo=whatsapp&logoColor=F97316"/>
-  </a>
-</p>
+<p align="center"><a href="https://wa.me/923277053836"><img src="https://img.shields.io/badge/WHATSAPP-F97316?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> <a href="https://wa.me/923277053836"><img src="https://img.shields.io/badge/CHAT-0B0F19?style=for-the-badge&logo=whatsapp&logoColor=F97316"/></a></p>
 
 <div align="center">
 
