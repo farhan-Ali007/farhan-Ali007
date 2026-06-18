@@ -11,21 +11,29 @@
 </div>
 
 ---
+## 🔗 Connect With Me
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
+<a href="https://farhancodes4u.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/farhancodes4u.netlify.app-00C896?style=for-the-badge&logo=netlify&logoColor=white)](https://farhancodes4u.netlify.app)
+<a href="https://github.com/farhan-Ali007">
+<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=F97316"/>
+</a>
 
-</td>
-<td align="center">
+<a href="mailto:farhancodes36@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-farhan--Ali007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhan-Ali007)
+<a href="https://www.linkedin.com/in/farhan-ali-61971936a/">
+<img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=F97316"/>
+</a>
 
-</td>
-</tr>
-</table>
+<a href="https://wa.me/923277053836">
+<img src="https://img.shields.io/badge/WhatsApp-F97316?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
 
 <div align="center">
 
