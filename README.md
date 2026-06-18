@@ -10,32 +10,26 @@
 
 </div>
 
-# CONNECT WITH ME
+# CONNECT WITH ME🌍
 
 <p align="center">
   <a href="https://farhancodes4u.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-F97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/farhan-Ali007">
-    <img src="https://img.shields.io/badge/GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=F97316"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/farhan-ali-61971936a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-F97316?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:farhancodes36@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0B0F19?style=for-the-badge&logo=gmail&logoColor=F97316"/>
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/923277053836">
-    <img src="https://img.shields.io/badge/WHATSAPP-F97316?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=farhan-Ali007&color=00C896&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=farhan-Ali007&color=00C896&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
----
 
 ## 👨‍💻 ABOUT ME
 
