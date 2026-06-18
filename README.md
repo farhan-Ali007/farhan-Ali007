@@ -210,7 +210,7 @@ Communication           ██████████████████�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,19&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:F97316&height=150&section=footer&text=Thanks%20for%20Visiting&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 </div>
 
