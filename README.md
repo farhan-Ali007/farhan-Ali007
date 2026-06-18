@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://farhancodes4u.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-cccccc?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-cccccc?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
   <a href="https://github.com/farhan-Ali007">
     <img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
