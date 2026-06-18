@@ -186,9 +186,9 @@ Communication           ██████████████████�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhan-Ali007&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00C896&icon_color=00C896&text_color=ffffff"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhan-Ali007&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00C896&icon_color=00C896&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-Ali007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00C896&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-Ali007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00C896&text_color=ffffff"/> -->
 
 </div>
 
