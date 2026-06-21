@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:131929&height=200&text=Farhan%20Ali&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Problem%20Solver&descAlignY=68&descSize=18&stroke=F97316&strokeWidth=2" width="100%"/>
-
 </div>
 
 <div align="center">
