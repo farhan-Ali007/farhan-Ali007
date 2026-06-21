@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🟢 MERN Stack · Next.js · REST APIs · Full Stack Developer 🟢
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+Scalable+%26+Production-Ready+Web+Apps;Clean+Code+%7C+Great+UX+%7C+Full+Stack+Power)](https://git.io/typing-svg)
 
