@@ -1,11 +1,9 @@
-<!-- GitHub Profile Header: Terminal Style -->
-<!-- Put this in a .html file and convert to SVG using: https://og-playground.vercel.app -->
-<!-- OR use the SVG approach below -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=const+dev+%3D+%22Farhan+Ali%22%3B;MERN+Stack+%7C+Full+Stack+Dev;problem.solve(%22anything%22)%3B" alt="Typing SVG" />
-</p>
-```
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:131929&height=200&text=Farhan%20Ali&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20Problem%20Solver&descAlignY=68&descSize=18&stroke=F97316&strokeWidth=2" width="100%"/>
+
+</div>
 
 <div align="center">
 
