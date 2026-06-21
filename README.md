@@ -198,9 +198,7 @@ Communication           ██████████████████�
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:F97316&height=150&section=footer&text=Thanks%20for%20Visiting&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:131929,100:0B0F19&height=120&text=Thanks%20for%20Visiting!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55&stroke=F97316&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
